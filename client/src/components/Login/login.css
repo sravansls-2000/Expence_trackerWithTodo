@@ -1,0 +1,10 @@
+.inputContainer {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.inputIcon {
+  position: absolute;
+  left: 250px;
+}
